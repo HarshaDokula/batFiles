@@ -1,4 +1,4 @@
-#Lazy Scripts
+# Lazy Scripts
 
 This repository is a collection of code snippets:
 1. that are used most frequently.
